@@ -1,0 +1,8 @@
+let materia = "javascript"
+let comision = 88115
+let flex = true
+
+//console.log ("materia" + materia)
+
+let materia= prompt("ingrese la materia que va a cursar")
+let comision= prompt("ingrese el numero de comision")
